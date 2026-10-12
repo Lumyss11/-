@@ -1,3 +1,14 @@
+# 成品PPT已完成｜AB混搭
+
+- [下载成品PPTX](ppt-final/presentation-AB.pptx?raw=true)
+- [在线验收29页PDF](ppt-final/presentation-AB.pdf)
+- [整包下载](ppt-final/presentation-AB-delivery.zip?raw=true)
+- [成品说明、逐页讲稿与预览](ppt-final/README.md)
+
+24页主讲＋5页备份，约30分钟讲述，问答另计；完整讲稿已写入备注，汇报人留空自填。
+
+---
+
 # 比较公共管理课程：文献译稿与30分钟汇报讲稿
 
 直接点击下面的文件即可打开。PDF 可以在 GitHub 网页中阅读；Word 文件进入文件页后使用下载按钮保存，再用 Word 或 WPS 打开。
@@ -19,7 +30,7 @@ Vogel, Rick, Dominik Vogel, Marlen Christin Liegat, and David Hensel. 2025. “F
 
 - 中文译稿覆盖正文、图表、附录及参考文献中文题名，保留关键英文术语。
 - 汇报讲稿按组会逻辑组织，包含研究问题、理论、方法、结果、批判性评议、比较公共管理拓展和备答。
-- 原文实证结果与自主拓展明确区分，未制作 PPT。
+- 原文实证结果与自主拓展明确区分；AB混搭PPT已完成，见上方成品入口。
 - 30分钟为排练目标，实际时长需按个人语速调整；正式问答另计。
 - 六种原型是工作人员的认知维度，不是六类互斥的现实公民。
 

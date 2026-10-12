@@ -1,0 +1,191 @@
+{
+  "slide_count": 29,
+  "main_slides": 24,
+  "backup_slides": 5,
+  "duration_seconds": 1800,
+  "main_notes_chinese_characters": 7090,
+  "all_native_chinese_preserved": true,
+  "native_slides": [
+    {
+      "slide": 1,
+      "missing_chinese_characters": 0,
+      "native_text_blocks": 12
+    },
+    {
+      "slide": 2,
+      "missing_chinese_characters": 0,
+      "native_text_blocks": 10
+    },
+    {
+      "slide": 3,
+      "missing_chinese_characters": 0,
+      "native_text_blocks": 8
+    },
+    {
+      "slide": 4,
+      "missing_chinese_characters": 0,
+      "native_text_blocks": 11
+    },
+    {
+      "slide": 5,
+      "missing_chinese_characters": 0,
+      "native_text_blocks": 8
+    },
+    {
+      "slide": 6,
+      "missing_chinese_characters": 0,
+      "native_text_blocks": 9
+    },
+    {
+      "slide": 7,
+      "missing_chinese_characters": 0,
+      "native_text_blocks": 8
+    },
+    {
+      "slide": 8,
+      "missing_chinese_characters": 0,
+      "native_text_blocks": 8
+    },
+    {
+      "slide": 9,
+      "missing_chinese_characters": 0,
+      "native_text_blocks": 11
+    },
+    {
+      "slide": 10,
+      "missing_chinese_characters": 0,
+      "native_text_blocks": 11
+    },
+    {
+      "slide": 11,
+      "missing_chinese_characters": 0,
+      "native_text_blocks": 9
+    },
+    {
+      "slide": 12,
+      "missing_chinese_characters": 0,
+      "native_text_blocks": 16
+    },
+    {
+      "slide": 13,
+      "missing_chinese_characters": 0,
+      "native_text_blocks": 12
+    },
+    {
+      "slide": 14,
+      "missing_chinese_characters": 0,
+      "native_text_blocks": 12
+    },
+    {
+      "slide": 15,
+      "missing_chinese_characters": 0,
+      "native_text_blocks": 11
+    },
+    {
+      "slide": 16,
+      "missing_chinese_characters": 0,
+      "native_text_blocks": 9
+    },
+    {
+      "slide": 17,
+      "missing_chinese_characters": 0,
+      "native_text_blocks": 6
+    },
+    {
+      "slide": 18,
+      "missing_chinese_characters": 0,
+      "native_text_blocks": 8
+    },
+    {
+      "slide": 19,
+      "missing_chinese_characters": 0,
+      "native_text_blocks": 10
+    },
+    {
+      "slide": 20,
+      "missing_chinese_characters": 0,
+      "native_text_blocks": 6
+    },
+    {
+      "slide": 21,
+      "missing_chinese_characters": 0,
+      "native_text_blocks": 11
+    },
+    {
+      "slide": 22,
+      "missing_chinese_characters": 0,
+      "native_text_blocks": 10
+    },
+    {
+      "slide": 23,
+      "missing_chinese_characters": 0,
+      "native_text_blocks": 8
+    },
+    {
+      "slide": 24,
+      "missing_chinese_characters": 0,
+      "native_text_blocks": 7
+    },
+    {
+      "slide": 25,
+      "missing_chinese_characters": 0,
+      "native_text_blocks": 10
+    },
+    {
+      "slide": 26,
+      "missing_chinese_characters": 0,
+      "native_text_blocks": 6
+    },
+    {
+      "slide": 27,
+      "missing_chinese_characters": 0,
+      "native_text_blocks": 6
+    },
+    {
+      "slide": 28,
+      "missing_chinese_characters": 0,
+      "native_text_blocks": 6
+    },
+    {
+      "slide": 29,
+      "missing_chinese_characters": 0,
+      "native_text_blocks": 8
+    }
+  ],
+  "original_assets": [
+    {
+      "file": "appendix-b-cfa.png",
+      "sha256": "0ec5837e87252c6b622eb5295c7b5a00fc81d67df9dc6c4487243c0bd94ab122",
+      "embedded_original_bytes": true
+    },
+    {
+      "file": "figure-1-study-flow.png",
+      "sha256": "fd089a620d4a03cf36bc93c75824e512a3bc280585dd361fc4286a7036a7edf9",
+      "embedded_original_bytes": true
+    },
+    {
+      "file": "figure-2-cfa.png",
+      "sha256": "7031bcd32cd8b4596502a8869653594ff333f35e8fea28d0461e569205671b74",
+      "embedded_original_bytes": true
+    },
+    {
+      "file": "figure-3-valence.png",
+      "sha256": "a73299a56b2987130fb639b86616b18bcdb8e0c7a09f776149f516273f4a8053",
+      "embedded_original_bytes": true
+    },
+    {
+      "file": "table-1-samples.png",
+      "sha256": "e0e4d59a20534044cab7deedfb54bda3406cc9655a7bd9072d309c6790d99f6c",
+      "embedded_original_bytes": true
+    },
+    {
+      "file": "table-2-efa.png",
+      "sha256": "8f625c3c6d803a9f83e81079f1b701135a2f508dccf4501a1a91861e7e42ae7c",
+      "embedded_original_bytes": true
+    }
+  ],
+  "browser_status": "passed",
+  "powerpoint_text_editable": true,
+  "visual_check_engine": "LibreOffice native PPTX rendering + Chromium HTML rendering",
+  "limitations": "实际个人语速与不同电脑字体替代未实测；30分钟为排练目标。"
+}
