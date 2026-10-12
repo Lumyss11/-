@@ -22,3 +22,10 @@ Vogel, Rick, Dominik Vogel, Marlen Christin Liegat, and David Hensel. 2025. “F
 - 原文实证结果与自主拓展明确区分，未制作 PPT。
 - 30分钟为排练目标，实际时长需按个人语速调整；正式问答另计。
 - 六种原型是工作人员的认知维度，不是六类互斥的现实公民。
+
+
+## PPT大纲与风格选择
+
+[打开PPT大纲和三套真实风格样页](ppt-planning/README.md)
+
+[直接查看六页风格对比PDF](ppt-planning/style-candidates.pdf)

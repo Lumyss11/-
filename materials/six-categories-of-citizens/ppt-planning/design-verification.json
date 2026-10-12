@@ -1,0 +1,77 @@
+[
+  {
+    "file": "A-cover.html",
+    "body": [
+      1280,
+      720
+    ],
+    "images": [],
+    "outside": [],
+    "page_errors": []
+  },
+  {
+    "file": "A-data.html",
+    "body": [
+      1280,
+      720
+    ],
+    "images": [
+      {
+        "complete": true,
+        "naturalWidth": 1449
+      }
+    ],
+    "outside": [],
+    "page_errors": []
+  },
+  {
+    "file": "B-cover.html",
+    "body": [
+      1280,
+      720
+    ],
+    "images": [],
+    "outside": [],
+    "page_errors": []
+  },
+  {
+    "file": "B-data.html",
+    "body": [
+      1280,
+      720
+    ],
+    "images": [
+      {
+        "complete": true,
+        "naturalWidth": 1449
+      }
+    ],
+    "outside": [],
+    "page_errors": []
+  },
+  {
+    "file": "C-cover.html",
+    "body": [
+      1280,
+      720
+    ],
+    "images": [],
+    "outside": [],
+    "page_errors": []
+  },
+  {
+    "file": "C-data.html",
+    "body": [
+      1280,
+      720
+    ],
+    "images": [
+      {
+        "complete": true,
+        "naturalWidth": 1449
+      }
+    ],
+    "outside": [],
+    "page_errors": []
+  }
+]
