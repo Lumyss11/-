@@ -1,0 +1,16 @@
+{
+  "slides": 33,
+  "main_slides": 29,
+  "appendix_slides": 4,
+  "duration_seconds": 1800,
+  "browser_collisions": 0,
+  "browser_outside": 0,
+  "native_chinese_missing": 0,
+  "visible_text_transfer": "exact",
+  "notes": "new paper-based guidance and translated source excerpts",
+  "source_images": 7,
+  "image_slides": 9,
+  "all_source_image_bytes_preserved": true,
+  "office_check": "LibreOffice opened PPTX and rendered all 33 pages",
+  "limits": "未在用户电脑的PowerPoint/WPS上实测；字体替代可能改变排版；30分钟为排练目标。"
+}

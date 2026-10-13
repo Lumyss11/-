@@ -1,0 +1,319 @@
+{
+  "slides": [
+    {
+      "slide": "01-slide.html",
+      "outside": [],
+      "text_collisions": [],
+      "images": [],
+      "text_count": 13,
+      "page_errors": []
+    },
+    {
+      "slide": "02-slide.html",
+      "outside": [],
+      "text_collisions": [],
+      "images": [],
+      "text_count": 10,
+      "page_errors": []
+    },
+    {
+      "slide": "03-slide.html",
+      "outside": [],
+      "text_collisions": [],
+      "images": [],
+      "text_count": 10,
+      "page_errors": []
+    },
+    {
+      "slide": "04-slide.html",
+      "outside": [],
+      "text_collisions": [],
+      "images": [],
+      "text_count": 10,
+      "page_errors": []
+    },
+    {
+      "slide": "05-slide.html",
+      "outside": [],
+      "text_collisions": [],
+      "images": [],
+      "text_count": 10,
+      "page_errors": []
+    },
+    {
+      "slide": "06-slide.html",
+      "outside": [],
+      "text_collisions": [],
+      "images": [],
+      "text_count": 10,
+      "page_errors": []
+    },
+    {
+      "slide": "07-slide.html",
+      "outside": [],
+      "text_collisions": [],
+      "images": [],
+      "text_count": 10,
+      "page_errors": []
+    },
+    {
+      "slide": "08-slide.html",
+      "outside": [],
+      "text_collisions": [],
+      "images": [],
+      "text_count": 10,
+      "page_errors": []
+    },
+    {
+      "slide": "09-slide.html",
+      "outside": [],
+      "text_collisions": [],
+      "images": [],
+      "text_count": 10,
+      "page_errors": []
+    },
+    {
+      "slide": "10-slide.html",
+      "outside": [],
+      "text_collisions": [],
+      "images": [],
+      "text_count": 13,
+      "page_errors": []
+    },
+    {
+      "slide": "11-slide.html",
+      "outside": [],
+      "text_collisions": [],
+      "images": [],
+      "text_count": 13,
+      "page_errors": []
+    },
+    {
+      "slide": "12-slide.html",
+      "outside": [],
+      "text_collisions": [],
+      "images": [
+        {
+          "complete": true,
+          "width": 747
+        }
+      ],
+      "text_count": 10,
+      "page_errors": []
+    },
+    {
+      "slide": "13-slide.html",
+      "outside": [],
+      "text_collisions": [],
+      "images": [],
+      "text_count": 10,
+      "page_errors": []
+    },
+    {
+      "slide": "14-slide.html",
+      "outside": [],
+      "text_collisions": [],
+      "images": [
+        {
+          "complete": true,
+          "width": 762
+        }
+      ],
+      "text_count": 10,
+      "page_errors": []
+    },
+    {
+      "slide": "15-slide.html",
+      "outside": [],
+      "text_collisions": [],
+      "images": [],
+      "text_count": 15,
+      "page_errors": []
+    },
+    {
+      "slide": "16-slide.html",
+      "outside": [],
+      "text_collisions": [],
+      "images": [
+        {
+          "complete": true,
+          "width": 1533
+        }
+      ],
+      "text_count": 10,
+      "page_errors": []
+    },
+    {
+      "slide": "17-slide.html",
+      "outside": [],
+      "text_collisions": [],
+      "images": [],
+      "text_count": 17,
+      "page_errors": []
+    },
+    {
+      "slide": "18-slide.html",
+      "outside": [],
+      "text_collisions": [],
+      "images": [],
+      "text_count": 10,
+      "page_errors": []
+    },
+    {
+      "slide": "19-slide.html",
+      "outside": [],
+      "text_collisions": [],
+      "images": [],
+      "text_count": 10,
+      "page_errors": []
+    },
+    {
+      "slide": "20-slide.html",
+      "outside": [],
+      "text_collisions": [],
+      "images": [],
+      "text_count": 10,
+      "page_errors": []
+    },
+    {
+      "slide": "21-slide.html",
+      "outside": [],
+      "text_collisions": [],
+      "images": [
+        {
+          "complete": true,
+          "width": 1215
+        }
+      ],
+      "text_count": 10,
+      "page_errors": []
+    },
+    {
+      "slide": "22-slide.html",
+      "outside": [],
+      "text_collisions": [],
+      "images": [
+        {
+          "complete": true,
+          "width": 1215
+        }
+      ],
+      "text_count": 10,
+      "page_errors": []
+    },
+    {
+      "slide": "23-slide.html",
+      "outside": [],
+      "text_collisions": [],
+      "images": [
+        {
+          "complete": true,
+          "width": 1449
+        }
+      ],
+      "text_count": 10,
+      "page_errors": []
+    },
+    {
+      "slide": "24-slide.html",
+      "outside": [],
+      "text_collisions": [],
+      "images": [],
+      "text_count": 10,
+      "page_errors": []
+    },
+    {
+      "slide": "25-slide.html",
+      "outside": [],
+      "text_collisions": [],
+      "images": [],
+      "text_count": 10,
+      "page_errors": []
+    },
+    {
+      "slide": "26-slide.html",
+      "outside": [],
+      "text_collisions": [],
+      "images": [],
+      "text_count": 10,
+      "page_errors": []
+    },
+    {
+      "slide": "27-slide.html",
+      "outside": [],
+      "text_collisions": [],
+      "images": [],
+      "text_count": 10,
+      "page_errors": []
+    },
+    {
+      "slide": "28-slide.html",
+      "outside": [],
+      "text_collisions": [],
+      "images": [],
+      "text_count": 10,
+      "page_errors": []
+    },
+    {
+      "slide": "29-slide.html",
+      "outside": [],
+      "text_collisions": [],
+      "images": [],
+      "text_count": 11,
+      "page_errors": []
+    },
+    {
+      "slide": "30-slide.html",
+      "outside": [],
+      "text_collisions": [],
+      "images": [
+        {
+          "complete": true,
+          "width": 1533
+        }
+      ],
+      "text_count": 10,
+      "page_errors": []
+    },
+    {
+      "slide": "31-slide.html",
+      "outside": [],
+      "text_collisions": [],
+      "images": [
+        {
+          "complete": true,
+          "width": 1533
+        }
+      ],
+      "text_count": 10,
+      "page_errors": []
+    },
+    {
+      "slide": "32-slide.html",
+      "outside": [],
+      "text_collisions": [],
+      "images": [
+        {
+          "complete": true,
+          "width": 747
+        }
+      ],
+      "text_count": 10,
+      "page_errors": []
+    },
+    {
+      "slide": "33-slide.html",
+      "outside": [],
+      "text_collisions": [],
+      "images": [],
+      "text_count": 10,
+      "page_errors": []
+    }
+  ],
+  "index_check": {
+    "status": "passed",
+    "initial_counter": "1 / 33 文献分享｜公务人员如何「看见」公民？",
+    "next_counter": "2 / 33 文章结构 · 阅读地图｜先理解问题，再跟随作者找到答案",
+    "errors": []
+  }
+}
